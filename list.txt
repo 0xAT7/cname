@@ -1,0 +1,7 @@
+https://api.partners-qa.zellepay.com
+http://authtrans-lb-1.prod2.zellepay.com
+https://api.partners-stage.zellepay.com
+https://api.partners.zellepay.com
+https://corptools.zellepay.com
+http://register.cat.zellepay.com
+https://www.zellepay.com
